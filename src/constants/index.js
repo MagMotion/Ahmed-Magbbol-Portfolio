@@ -74,7 +74,7 @@ export const SKILLS = {
 }
 
 export const CONTACT = {
-  address: "US, Virginia ",
+  address: "US. Virginia ",
   phoneNo: "+12 4555 666 00 ",
   email: "contact@magbool.me",
 };
